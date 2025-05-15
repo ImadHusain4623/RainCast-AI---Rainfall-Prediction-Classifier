@@ -72,4 +72,4 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 
 ## 📬 Contact
 
-For any inquiries or suggestions, please reach out to [Your Name or GitHub handle].
+For any inquiries or suggestions, please reach out to Imad Husain.
